@@ -1,4 +1,5 @@
 To run the script from the command line, for example use:
+
 py.exe logger.py Ivanov Ivan Ivanovich 30 manager 50000 --birthday --raise_salary 10
 
 Result:
